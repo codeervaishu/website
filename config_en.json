@@ -1,0 +1,334 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": false,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "radius": 2.0,
+      "items": [
+        {
+          "category": 29,
+          "image": "https://user-images.githubusercontent.com/79356008/110154388-34783d00-7e0a-11eb-8831-77918302250e.png",
+          "padding": 15.0
+        },
+        {
+          "category": 28,
+          "image": "https://path-ent.com/smiling2/image/cache/catalog/BANNER/la%20girl%206-1900x600.jpg",
+          "padding": 15.0
+        },
+        {
+          "product": 30,
+          "image": "https://path-ent.com/smiling2/image/cache/catalog/BANNER/dEBBY-1900x600w.jpg",
+          "padding": 15.0
+        }
+      ]
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": false,
+      "size": 1.0,
+      "radius": 50.0,
+      "items": [{
+        "category": 20,
+        "image": "https://img.icons8.com/plasticine/100/000000/lipstick.png",
+        "colors": [
+          "#3CC2BF",
+          "#3CC2BF"
+        ],
+        "originalColor": true
+      },
+        {
+          "category": 25,
+          "image": "https://img.icons8.com/doodle/100/000000/girl.png",
+          "colors": [
+            "#3E6AB5",
+            "#3E6AB5"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 33,
+          "image": "assets/icons/categories/eyebrow-pencil.png",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 34,
+          "image": "assets/icons/categories/nails.png",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 63,
+          "image": "https://img.icons8.com/dusk/100/000000/shampoo-dispenser.png",
+          "colors": [
+            "#53688A",
+            "#53688A"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 18,
+          "image": "https://img.icons8.com/plasticine/100/000000/cosmetic-brush.png",
+          "colors": [
+            "#43506A",
+            "#43506A"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 129,
+          "image": "assets/icons/categories/manicure.png",
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 62,
+          "image": "assets/icons/categories/make-up-kit.png",
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 61,
+          "image": "https://img.icons8.com/cotton/64/000000/mirror.png",
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ],
+          "originalColor": true
+        }
+      ]
+    },
+    {
+      "layout": "brandSlider",
+      "items": [
+        {"id": "15", "name": "Silk Touch", "image": "assets/images/slik.png"},
+        {"id": "16", "name": "Copines Line", "image": "assets/images/CopinesLine.png"},
+        {"id": "17", "name": "Miss Cop", "image": "assets/images/Misscop.png"},
+        {"id": "21", "name": "L.A GIRL", "image": "assets/images/lagirl.png"},
+        {"id": "22", "name": "MILANI", "image": "assets/images/milani.png"},
+        {"id": "24", "name": "DEBBY", "image": "assets/images/debby.png"},
+        {"id": "27", "name": "DEBORAH", "image": "assets/images/deborah.png"},
+        {"id": "28", "name": "SMILING", "image": "assets/images/smiling.png"},
+        {"id": "29", "name": "ARCANCIL", "image": "assets/images/arcanil.png"},
+        {"id": "30", "name": "FLORELLE", "image": "assets/images/florelle.png"},
+        {
+          "id": "31",
+          "name": "LORD &amp; BERRY",
+          "image": "assets/images/lordberry.png"
+        },
+        {"id": "32", "name": "L A COLORS", "image": "assets/images/lacolor.png"},
+        {"id": "33", "name": "LOOX", "image": "assets/images/loox.jpeg"},
+        {"id": "34", "name": "ASTRA", "image": "assets/images/astra.png"},
+        {"id": "35", "name": "DENCO", "image": "assets/images/denco.jpg"},
+        {"id": "36", "name": "IQUEEN", "image": "assets/images/IQUEEN.jpeg"},
+        {"id": "37", "name": "BABARIA", "image": "assets/images/babaria.png"},
+        {"id": "38", "name": "TRENDY", "image": "assets/images/trendy.jpeg"},
+        {"id": "47", "name": "ESDA STORE", "image": "assets/images/EsdaStore.jpg"},
+        {"id": "48", "name": "BELL", "image": "assets/images/bell.jpg"},
+        {"id": "61", "name": "LA SPLASH", "image": "assets/images/lasplash.png"},
+        {"id": "63", "name": "FIRE", "image": "assets/images/fire.jpg"},
+        {"id": "62", "name": "RED STAR", "image": "assets/images/redstar.png"},
+        {"id": "64", "name": "THREE SEVEN", "image": "assets/images/threeseven.png"}
+      ]
+    },
+    {
+      "name": "Flash Sale",
+      "layout": "threeColumn",
+      "category": 20
+    },
+    {
+      "name": "New Arrival",
+      "layout": "threeColumn",
+      "category": 20
+    },
+    {
+      "name": "Best Seller",
+      "layout": "threeColumn",
+      "category": 20
+    },
+
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "design": "swiper",
+      "radius": 20.0,
+      "items": [
+        {
+          "category": 18,
+          "image": "https://path-ent.com/smiling2/image/cache/catalog/new%20banner/Accessories-335x226.jpg",
+          "padding": 0.0
+        },
+        {
+          "category": 63,
+          "image": "https://path-ent.com/smiling2/image/cache/catalog/new%20banner/Body%20Care-335x226.jpg",
+          "padding": 0.0
+        },
+        {
+          "category": 129,
+          "image": "https://path-ent.com/smiling2/image/cache/catalog/new%20banner/Manicure%20Sets-335x226.jpg",
+          "padding": 0.0
+        },
+        {
+          "category": 61,
+          "image": "https://path-ent.com/smiling2/image/cache/catalog/new%20banner/Makeup%20Case-335x226.jpg",
+          "padding": 0.0
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "image": "https://path-ent.com/smiling2/image/cache/catalog/new%20banner/id2-banner1-1649x85%201-1649x85.jpg",
+          "padding": 8.0,
+          "radius": 9.0
+        }
+      ]
+    },
+    {
+      "name": "Lip",
+      "layout": "threeColumn",
+      "category": 20
+    },
+    {
+      "name": "Eye",
+      "layout": "threeColumn",
+      "category": 33
+    },
+    {
+      "name": "Face",
+      "layout": "threeColumn",
+      "category": 25
+    },
+    {
+      "name": "Nails",
+      "layout": "threeColumn",
+      "category": 34
+    },
+    {
+      "name": "Makeup Kit",
+      "layout": "threeColumn",
+      "category": 62
+    },
+    {
+      "name": "Accessories",
+      "layout": "threeColumn",
+      "category": 18
+    },
+    {
+      "name": "Manicure & Pedicure",
+      "layout": "threeColumn",
+      "category": 64
+    },
+    {
+      "name": "Cases & Mirrors",
+      "layout": "threeColumn",
+      "category": 61
+    },
+
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "design": "swiper",
+      "radius": 20.0,
+      "items": [
+        {
+          "category": 64,
+          "image": "https://path-ent.com/smiling2/image/cache/catalog/new%20banner/Manicure%20Pedicure-680x296.jpg",
+          "padding": 0.0
+        },
+        {
+          "category": 84,
+          "image": "https://path-ent.com/smiling2/image/cache/catalog/new%20banner/Eyelashes2-540x472.jpg",
+          "padding": 0.0
+        },
+        {
+          "category": 62,
+          "image": "https://path-ent.com/smiling2/image/cache/catalog/new%20banner/WhatsApp%20Image%202020-05-23%20at%205.18.52%20PM-1000x874.jpeg",
+          "padding": 0.0
+        }
+      ]
+    }
+  ],
+  "Setting": {
+    "MainColor": "#E40017",
+    "ProductListLayout": "list",
+    "StickyHeader": true,
+    "ShowChat": true
+  },
+  "TabBar": [{
+    "layout": "home",
+    "icon": "assets/icons/tabs/icon-home.png"
+  },
+    {
+      "layout": "category",
+      "categoryLayout": "animation",
+      "icon": "assets/icons/tabs/icon-category.png"
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png"
+    },
+    {
+      "layout": "cart",
+      "icon": "assets/icons/tabs/icon-cart2.png"
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png",
+      "showChat": true
+    }
+  ],
+  "searchSuggestion": [
+    "Here are some suggestions:",
+    "man",
+    "woman",
+    "dress",
+    "Stitch"
+  ],
+  "OnBoarding": {
+    "data": [
+      {
+        "title": "Makeup Al Mansour",
+        "image": "assets/images/fogg-delivery-1.png",
+        "desc": "Makeup Al Mansour is on the way to serve you. ",
+        "background": "#FFF3F2"
+      },
+      {
+        "title": "Connect Surrounding World",
+        "image": "assets/images/fogg-uploading-1.png",
+        "desc": "See all things happening around you just by a click in your phone. Fast, convenient and clean.",
+        "background": "#F2FFFC"
+      },
+      {
+        "title": "Let's Get Started",
+        "image": "fogg-order-completed.png",
+        "desc": "Waiting no more, let's see what we get!",
+        "background": "#F9F2FF"
+      }
+    ]
+  }
+}
